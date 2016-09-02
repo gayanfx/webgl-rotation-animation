@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    
+}
+form {
+    position: fixed;
+    top: 0;
+    left: 10px;
+    background: none;
+}
+form label {
+    color: white;
+    display: block;
+    width: 100px;
+}
+canvas {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
